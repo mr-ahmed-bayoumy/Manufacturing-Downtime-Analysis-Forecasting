@@ -1,19 +1,19 @@
-Manufacturing Downtime Analysis & Forecasting
+# Manufacturing Downtime Analysis & Forecasting
 
-DEPI Final Project — Team 3
+## DEPI Final Project — Team 3
 
-Team Leader: Ahmed Bayoumy
+Team 3
 Supervisor: Eng. Mahmoud Emad
 
-Project Overview
+## Project Overview
 
-Manufacturing downtime directly affects production efficiency, operational costs, and production planning.
+- Manufacturing downtime directly affects production efficiency, operational costs, and production planning.
 
-This project aims to analyze manufacturing line productivity, identify the major causes of downtime, evaluate production performance, and develop forecasting models to support data-driven operational decisions.
+- This project aims to analyze manufacturing line productivity, identify the major causes of downtime, evaluate production performance, and develop forecasting models to support data-driven operational decisions.
 
 Using SQL, Python, Machine Learning, and Tableau, the team will transform raw manufacturing data into actionable insights and develop a data-driven approach to estimating next-day downtime and planning production batches.
 
-Business Objectives
+## Business Objectives
 
 - Identify and quantify the major causes of manufacturing downtime.
 - Evaluate production efficiency across products, batches, operators, and operating days.
@@ -23,11 +23,11 @@ Business Objectives
 - Estimate the number of batches that can be produced based on available operating time and predicted downtime.
 - Develop an interactive Tableau dashboard to support operational decision-making.
 
-Dataset Overview
+## Dataset Overview
 
 The project dataset contains four tables describing manufacturing productivity, product characteristics, downtime events, and downtime factors.
 
-Dataset| Description
+### Dataset| Description
 Line Productivity| Batch production dates, products, operators, start times, and end times
 Products| Product flavors, package sizes, and minimum batch production times
 Line Downtime| Downtime duration by batch and downtime factor
@@ -35,9 +35,9 @@ Downtime Factors| Downtime descriptions and operator-error classifications
 
 The project also includes a data dictionary describing the available tables and fields.
 
-Project Workflow
+# Project Workflow
 
-Week 1 — Data Modeling, Cleaning & Preprocessing
+### Week 1 — Data Modeling, Cleaning & Preprocessing
 
 - Inspect dataset structure, data types, missing values, and duplicate records.
 - Validate batch identifiers, production timestamps, and downtime values.
@@ -45,9 +45,9 @@ Week 1 — Data Modeling, Cleaning & Preprocessing
 - Define relationships between production, product, and downtime tables.
 - Prepare clean datasets for analysis.
 
-Tools: SQL, Python, Pandas, Matplotlib
+### Tools: SQL, Python, Pandas, Matplotlib
 
-Deliverables:
+## Deliverables:
 
 - Cleaned datasets.
 - Data preprocessing notebook.
@@ -61,9 +61,9 @@ Week 2 — Exploratory Data Analysis & Business Questions
 - Calculate production efficiency metrics.
 - Translate analytical findings into actionable business recommendations.
 
-Tools: SQL, Python, Pandas, Matplotlib
+### Tools: SQL, Python, Pandas, Matplotlib
 
-Deliverables:
+## Deliverables:
 
 - Business analysis questions.
 - Analytical results and visualizations.
@@ -77,9 +77,9 @@ Week 3 — Downtime Forecasting & Production Planning
 - Estimate feasible production batch counts using predicted downtime and product-specific production times.
 - Evaluate model performance and document forecasting limitations.
 
-Tools: Python, Pandas, Scikit-learn, Matplotlib
+### Tools: Python, Pandas, Scikit-learn, Matplotlib
 
-Deliverables:
+## Deliverables:
 
 - Forecasting models and evaluation results.
 - Forecast visualization plots.
@@ -94,15 +94,15 @@ Week 4 — Tableau Dashboard & Final Presentation
 - Communicate forecasting results and production planning recommendations.
 - Prepare the final report and presentation.
 
-Tools: SQL, Python, Tableau
+### Tools: SQL, Python, Tableau
 
-Deliverables:
+## Deliverables:
 
 - Interactive Tableau dashboard.
 - Final project report.
 - Final presentation.
 
-Technology Stack
+## Technology Stack
 
 - SQL: Data querying, transformation, and analytical calculations.
 - Python: Data preprocessing, exploratory data analysis, and forecasting.
@@ -112,9 +112,9 @@ Technology Stack
 - Tableau: Interactive dashboards and business reporting.
 - Git & GitHub: Version control and project documentation.
 
-Expected Business Outcomes
+# Expected Business Outcomes
 
-The project aims to provide evidence-based recommendations for:
+### The project aims to provide evidence-based recommendations for:
 
 - Prioritizing the downtime causes with the greatest operational impact.
 - Improving production efficiency and reducing avoidable downtime.
@@ -124,17 +124,15 @@ The project aims to provide evidence-based recommendations for:
 
 All findings and recommendations will be based on the available dataset and validated analytical results.
 
-Team Members
+# Team Members
 
-Name| Role
-Ahmed Bayoumy| Team Leader
-Name1| Team Member
-Name2| Team Member
-Name3| Team Member
-Name4| Team Member
-Name5| Team Member
+Ahmed Bayoumy
 
-Repository Structure
+
+
+
+
+# Repository Structure
 
 Manufacturing-Downtime-Analysis-Forecasting/
 │
@@ -161,14 +159,14 @@ Manufacturing-Downtime-Analysis-Forecasting/
 
 The structure above represents the planned organization of the project. Files and folders will be populated as the project progresses.
 
-Project Status
+## Project Status
 
-Status: In Progress
+### Status: In Progress
 
 This project is being developed as part of the DEPI Professional Data Analyst track.
 
 Further updates will include the data model, preprocessing workflow, business analysis, forecasting results, and Tableau dashboard.
 
-Acknowledgments
+## Acknowledgments
 
 Thanks to the Digital Egypt Pioneers Initiative (DEPI) and our project supervisor, Eng. Mahmoud Emad, for supporting the project as part of the data analytics learning journey.
