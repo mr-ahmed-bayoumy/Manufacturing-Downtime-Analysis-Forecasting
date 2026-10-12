@@ -2,8 +2,6 @@
 
 ### DEPI Final Project — Team 3
 
----
-
 ## Project Overview
 
 - Manufacturing downtime directly affects production efficiency, operational costs, and production planning.
@@ -39,7 +37,7 @@ Products| Product flavors, package sizes, and minimum batch production times
 - Line Downtime| Downtime duration by batch and downtime factor
 Downtime Factors| Downtime descriptions and operator-error classifications
 
-The project also includes a data dictionary describing the available tables and fields.
+- The project also includes a data dictionary describing the available tables and fields.
 
 ---
 
@@ -145,37 +143,10 @@ Tools: SQL, Python, Tableau
 ### Team Members
 
 Ahmed Bayoumy
-bbbbb
-ccccc
-ddddd
-uuuuu
-
-## Repository Structure
-
-Manufacturing-Downtime-Analysis-Forecasting/
-│
-├── data/
-│   ├── raw/
-│   │   ├── Manufacturing_Line_Productivity.xlsx
-│   │   └── data_dictionary.csv
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_Data_Preprocessing.ipynb
-│   ├── 02_Exploratory_Data_Analysis.ipynb
-│   └── 03_Downtime_Forecasting.ipynb
-│
-├── sql/
-│   └── manufacturing_analysis.sql
-│
-├── dashboard/
-│
-├── reports/
-│
-├── README.md
-└── .gitignore
-
-The structure above represents the planned organization of the project. Files and folders will be populated as the project progresses.
+Zeinab
+Ahmed Hesham
+Kerolos
+Nada
 
 ## Project Status
 
