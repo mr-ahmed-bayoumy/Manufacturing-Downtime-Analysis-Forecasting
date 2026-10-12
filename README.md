@@ -2,8 +2,7 @@
 
 ## DEPI Final Project — Team 3
 
-Team 3
-Supervisor: Eng. Mahmoud Emad
+---
 
 ## Project Overview
 
@@ -11,7 +10,9 @@ Supervisor: Eng. Mahmoud Emad
 
 - This project aims to analyze manufacturing line productivity, identify the major causes of downtime, evaluate production performance, and develop forecasting models to support data-driven operational decisions.
 
-Using SQL, Python, Machine Learning, and Tableau, the team will transform raw manufacturing data into actionable insights and develop a data-driven approach to estimating next-day downtime and planning production batches.
+- Using SQL, Python, Machine Learning, and Tableau, the team will transform raw manufacturing data into actionable insights and develop a data-driven approach to estimating next-day downtime and planning production batches.
+
+---
 
 ## Business Objectives
 
@@ -23,19 +24,26 @@ Using SQL, Python, Machine Learning, and Tableau, the team will transform raw ma
 - Estimate the number of batches that can be produced based on available operating time and predicted downtime.
 - Develop an interactive Tableau dashboard to support operational decision-making.
 
+--- 
+
 ## Dataset Overview
 
 The project dataset contains four tables describing manufacturing productivity, product characteristics, downtime events, and downtime factors.
 
+---
+
 ### Dataset| Description
-Line Productivity| Batch production dates, products, operators, start times, and end times
+
+- Line Productivity| Batch production dates, products, operators, start times, and end times
 Products| Product flavors, package sizes, and minimum batch production times
-Line Downtime| Downtime duration by batch and downtime factor
+- Line Downtime| Downtime duration by batch and downtime factor
 Downtime Factors| Downtime descriptions and operator-error classifications
 
 The project also includes a data dictionary describing the available tables and fields.
 
-# Project Workflow
+---
+
+## Project Workflow
 
 ### Week 1 — Data Modeling, Cleaning & Preprocessing
 
@@ -53,6 +61,8 @@ The project also includes a data dictionary describing the available tables and 
 - Data preprocessing notebook.
 - Documented data model.
 
+--- 
+
 Week 2 — Exploratory Data Analysis & Business Questions
 
 - Analyze production performance and downtime distribution.
@@ -68,6 +78,8 @@ Week 2 — Exploratory Data Analysis & Business Questions
 - Business analysis questions.
 - Analytical results and visualizations.
 - Key findings and recommendations.
+
+---
 
 Week 3 — Downtime Forecasting & Production Planning
 
@@ -86,6 +98,8 @@ Week 3 — Downtime Forecasting & Production Planning
 - Next-day downtime estimates.
 - Production planning estimates.
 
+---
+
 Week 4 — Tableau Dashboard & Final Presentation
 
 - Develop an interactive Tableau dashboard.
@@ -102,6 +116,8 @@ Week 4 — Tableau Dashboard & Final Presentation
 - Final project report.
 - Final presentation.
 
+---
+
 ## Technology Stack
 
 - SQL: Data querying, transformation, and analytical calculations.
@@ -111,6 +127,8 @@ Week 4 — Tableau Dashboard & Final Presentation
 - Scikit-learn: Machine learning model development and evaluation.
 - Tableau: Interactive dashboards and business reporting.
 - Git & GitHub: Version control and project documentation.
+
+---
 
 # Expected Business Outcomes
 
@@ -124,13 +142,17 @@ Week 4 — Tableau Dashboard & Final Presentation
 
 All findings and recommendations will be based on the available dataset and validated analytical results.
 
+---
+
 # Team Members
 
 Ahmed Bayoumy
+bbbbb
+ccccc
+ddddd
+uuuuu
 
-
-
-
+---
 
 # Repository Structure
 
@@ -158,6 +180,8 @@ Manufacturing-Downtime-Analysis-Forecasting/
 └── .gitignore
 
 The structure above represents the planned organization of the project. Files and folders will be populated as the project progresses.
+
+---
 
 ## Project Status
 
