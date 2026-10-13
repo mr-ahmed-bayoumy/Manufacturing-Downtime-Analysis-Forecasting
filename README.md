@@ -142,11 +142,11 @@ Tools: SQL, Python, Tableau
 
 ### Team Members
 
-Ahmed Bayoumy
-Zeinab
-Ahmed Hesham
-Kerolos
-Nada
+Ahmed Mahmoud Bayoumy
+Zeinab Abdullah Kenawy
+Ahmed Hesham Selmy
+Kerolos Adolf Lamay
+Nada Hussein Mohamed
 
 ## Project Status
 
