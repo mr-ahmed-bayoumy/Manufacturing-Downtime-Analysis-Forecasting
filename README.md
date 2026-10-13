@@ -30,7 +30,7 @@ The project dataset contains four tables describing manufacturing productivity, 
 
 ---
 
-### Dataset| Description
+### Dataset | Description
 
 - Line Productivity| Batch production dates, products, operators, start times, and end times
 Products| Product flavors, package sizes, and minimum batch production times
