@@ -8,7 +8,7 @@
 
 - This project aims to analyze manufacturing line productivity, identify the major causes of downtime, evaluate production performance, and develop forecasting models to support data-driven operational decisions.
 
-- Using SQL, Python, Machine Learning, and Tableau, the team will transform raw manufacturing data into actionable insights and develop a data-driven approach to estimating next-day downtime and planning production batches.
+- Using SQL, Python, Machine Learning, and PowerBI, the team will transform raw manufacturing data into actionable insights and develop a data-driven approach to estimating next-day downtime and planning production batches.
 
 ---
 
@@ -20,7 +20,7 @@
 - Investigate operational patterns associated with increased downtime.
 - Forecast downtime for the next operating day.
 - Estimate the number of batches that can be produced based on available operating time and predicted downtime.
-- Develop an interactive Tableau dashboard to support operational decision-making.
+- Develop an interactive Power BI dashboard to support operational decision-making.
 
 --- 
 
@@ -98,19 +98,19 @@ Tools: Python, Pandas, Scikit-learn, Matplotlib
 
 ---
 
-Week 4 — Tableau Dashboard & Final Presentation
+Week 4 — Power BI Dashboard & Final Presentation
 
-- Develop an interactive Tableau dashboard.
+- Develop an interactive Power BI dashboard.
 - Present production performance and downtime KPIs.
 - Visualize major downtime factors and operational trends.
 - Communicate forecasting results and production planning recommendations.
 - Prepare the final report and presentation.
 
-Tools: SQL, Python, Tableau
+Tools: SQL, Python, Power BI
 
 ### Deliverables:
 
-- Interactive Tableau dashboard.
+- Interactive Power BI dashboard.
 - Final project report.
 - Final presentation.
 
@@ -123,7 +123,7 @@ Tools: SQL, Python, Tableau
 - Pandas: Data manipulation and preparation.
 - Matplotlib: Data visualization.
 - Scikit-learn: Machine learning model development and evaluation.
-- Tableau: Interactive dashboards and business reporting.
+- Power BI: Interactive dashboards and business reporting.
 - Git & GitHub: Version control and project documentation.
 
 ## Expected Business Outcomes
