@@ -142,11 +142,11 @@ Tools: SQL, Python, Power BI
 
 ### Team Members
 
-Ahmed Mahmoud Bayoumy
-Zeinab Abdullah Kenawy
-Ahmed Hesham Selmy
-Kerolos Adolf Lamay
-Nada Hussein Mohamed
+- Ahmed Mahmoud Bayoumy
+- Zeinab Abdullah Kenawy
+- Ahmed Hesham Selmy
+- Kerolos Adolf Lamay
+- Nada Hussein Mohamed
 
 ## Project Status
 
