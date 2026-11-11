@@ -148,7 +148,7 @@ Tools: SQL, Python, Power BI
 - Kerolos Adolf Lamay
 - Nada Hussein Mohamed
 
-## Project Status
+### Project Supervisor | Eng. Mahmoud Emad
 
 ### Status: In Progress
 
